@@ -1,0 +1,26 @@
+{
+  "project": "C:/Workspace/fenghua-sanitation-app-cli",
+  "platform": "android",
+  "iscustom": false,
+  "safemode": true,
+  "android": {
+    "packagename": "com.yunhu.fenghua.android",
+    "androidpacktype": "0",
+    "certalias": "testalias",
+    "certfile": "C:/Workspace/fenghua-sanitation-app-cli/build/test.keystore",
+    "certpassword": "123456",
+    "channels": ""
+  },
+  "ios": {
+    "bundle": "",
+    "supporteddevice": "",
+    "profile": "",
+    "certfile": "",
+    "certpassword": ""
+  },
+  "isconfusion": false,
+  "splashads": false,
+  "rpads": false,
+  "pushads": false,
+  "exchange": false
+}
